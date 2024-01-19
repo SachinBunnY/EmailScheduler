@@ -1,0 +1,22 @@
+.tableDesc{
+    width: 5px !important;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+#editDltBtn{
+    margin-top: 1.5rem;
+    padding: 2px 5px 0 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.editBtn, .dltBtn{
+    cursor: pointer;
+}
+.tableRow{
+    overflow: hidden;
+    height: 50px;
+    margin: 0px 2px 0px 2px;
+    text-align: center;
+}

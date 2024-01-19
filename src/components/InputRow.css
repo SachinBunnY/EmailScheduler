@@ -1,0 +1,26 @@
+.inputRow{
+    width: 13.5rem;
+    height: 2rem;
+    flex-shrink: 0;
+    border-radius: 0.25rem;
+    border: 1px solid var(--Blue10, rgba(60, 30, 90, 0.10));
+    background: #FFF;
+}
+.saveAndCancelBtn{
+    margin-top: 0.5rem;
+    padding: 2px 5px 0 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.saveBtn{
+    cursor: pointer;
+    width: 2rem;
+    height: 2rem;
+}
+.cutBtn{
+    margin-top: 0.25rem;
+    cursor: pointer;
+    width: 1.6rem;
+    height: 1.6rem;
+}

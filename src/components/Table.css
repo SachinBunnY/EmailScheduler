@@ -1,0 +1,22 @@
+:root{
+    --Blue10: #3C1E5A1A;
+}
+
+
+#dataTableDiv{
+    max-height: 20rem;
+    width: 80%;
+    margin-top: 2rem;
+    overflow: auto;
+}
+table{
+    height: 100%;
+    width: 100%;
+}
+
+#tableHead{
+    height: 2rem;
+    background: var(--Blue10, rgba(60, 30, 90, 0.10));
+}
+
+

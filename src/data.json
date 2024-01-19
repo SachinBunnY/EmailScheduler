@@ -1,0 +1,25 @@
+[
+    {
+      "title":"Sample title",
+      "description":"Lorem ipsom is a dummy text generator.",
+      "subject":"Sample subject",
+      "schedule":"Daily at 10:00AM"
+    },
+    {
+      "title":"Sample title",
+      "description":"Lorem ipsom is a dummy text generator.",
+      "subject":"Sample subject",
+      "schedule":"Daily at 10:00AM"
+    },
+    {
+      "title":"Sample title",
+      "description":"Lorem ipsom is a dummy text generator.",
+      "subject":"Sample subject",
+      "schedule":"Daily at 10:00AM"
+    },{
+      "title":"Sample title",
+      "description":"Lorem ipsom is a dummy text generator.",
+      "subject":"Sample subject",
+      "schedule":"Daily at 10:00AM"
+    }
+]
